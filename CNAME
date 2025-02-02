@@ -1,1 +1,45 @@
 misola-niger.org
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>À propos de MISOLA NIGER</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>À propos de MISOLA NIGER</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="about.html">À propos</a></li>
+                <li><a href="actions.html">Nos actions</a></li>
+                <li><a href="team.html">Notre équipe</a></li>
+                <li><a href="partners.html">Partenaires</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Notre mission</h2>
+        <p>Le projet MISOLA vise à sauver les enfants africains de la faim en fabriquant localement une farine infantile enrichie à partir de ressources agricoles du pays.</p>
+
+        <h2>Notre vision</h2>
+        <p>Aider mieux et autrement à lutter contre la malnutrition infantile en Afrique de l’Ouest et Centrale.</p>
+
+        <h2>Historique</h2>
+        <ul>
+            <li>1982 : Origine du projet MISOLA au Burkina Faso</li>
+            <li>1995 : Création de l’association en France</li>
+            <li>1997 : Dépôt de la marque MISOLA</li>
+            <li>2005 : Mise en place du projet au Niger</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 MISOLA NIGER - Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
